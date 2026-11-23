@@ -1,0 +1,1 @@
+rainfall_sample.csv: SYNTHETIC annual maximum daily rainfall (mm) for two fictitious stations, only for testing the Rainfall frequency analysis tool. Load it in QGIS as a delimited text layer without geometry, rainfall field = rain_max_mm, group by = station.
