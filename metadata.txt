@@ -1,0 +1,19 @@
+[general]
+name=HydroCatch
+qgisMinimumVersion=3.16
+supportsQt6=True
+description=Hydrology toolbox: catchments (DAS), basins, terrain, rainfall frequency analysis, land cover and design discharge
+version=0.1.0
+author=Moh. Tri Arwadi
+email=you@example.com
+about=Processing algorithms for hydrological work from a DEM, rainfall records and satellite imagery: catchments, basins, sub-catchments, stream networks and morphometry; slope and contours; rainfall frequency analysis (Normal, Log Normal, Gumbel, Log Pearson III with Chi-Square and Smirnov-Kolmogorov tests), Mononobe intensity and rainfall distribution; land cover classification and runoff coefficient; effective rainfall and rational design discharge. Pure Python (numpy + GDAL), no GRASS/SAGA needed.
+tracker=https://github.com/triarwadi25/Hydrocatch/issues
+repository=https://github.com/triarwadi25/Hydrocatch
+tags=hydrology,watershed,catchment,DEM,rainfall,discharge,land cover,processing
+homepage=https://github.com/triarwadi25/Hydrocatch
+category=Analysis
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=yes
+changelog=0.1.0 - First release
